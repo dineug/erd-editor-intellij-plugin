@@ -1,0 +1,3 @@
+[submodule "erd-editor"]
+	path = erd-editor
+	url = https://github.com/dineug/erd-editor.git
