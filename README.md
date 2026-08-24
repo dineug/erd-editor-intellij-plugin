@@ -1,5 +1,16 @@
 # erd-editor-intellij-plugin
 
+> [!IMPORTANT]
+> **This repository has moved.** Development continues in the erd-editor monorepo at
+> [`dineug/erd-editor` → `packages/intellij-plugin`](https://github.com/dineug/erd-editor/tree/main/packages/intellij-plugin),
+> alongside the webview it embeds. This repository is archived and read-only; its commit
+> history was carried over, so `git log` there covers everything below.
+>
+> Please open issues and pull requests at
+> [dineug/erd-editor](https://github.com/dineug/erd-editor/issues). The plugin itself is
+> unaffected — install it from the
+> [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/23594-erd-editor) as before.
+
 The [ERD Editor](https://plugins.jetbrains.com/plugin/23594-erd-editor) plugin for IntelliJ-based
 IDEs. The Kotlin code here is a thin host layer — it registers the file editor, runs a JCEF webview
 and bridges it to the IDE. The diagram editor itself lives in the
