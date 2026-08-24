@@ -3,8 +3,9 @@
 > [!IMPORTANT]
 > **This repository has moved.** Development continues in the erd-editor monorepo at
 > [`dineug/erd-editor` → `packages/intellij-plugin`](https://github.com/dineug/erd-editor/tree/main/packages/intellij-plugin),
-> alongside the webview it embeds. This repository is archived and read-only; its commit
-> history was carried over, so `git log` there covers everything below.
+> alongside the webview it embeds; its commit
+> history was carried over, so `git log` there covers everything below. This repository is
+> being archived and takes no further changes.
 >
 > Please open issues and pull requests at
 > [dineug/erd-editor](https://github.com/dineug/erd-editor/issues). The plugin itself is
